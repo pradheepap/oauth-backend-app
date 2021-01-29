@@ -1,0 +1,16 @@
+{
+  "name": "oauth-backend-app",
+  "version": "1.0.0",
+  "description": "Machine to Machine Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "auth0",
+    "oauth2.0",
+    "demo"
+  ],
+  "author": "Pradheepa",
+  "license": "ISC"
+}
